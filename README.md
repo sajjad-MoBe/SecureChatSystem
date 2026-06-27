@@ -77,5 +77,5 @@ python3 -m unittest tests/test_phase3.py
 The Persian project report is available in [report_Fa.md](./report_Fa.md).
 
 ## Contributors
-- Sajjad Mohammadbeigi
-- Aida Ameri
+- Sajjad Mohammadbeigi (Sajjad@cloudibash.com)
+- Aida Ameri (aidaameri@outlook.com)
